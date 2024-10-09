@@ -17,4 +17,4 @@ This project analyzes the Titanic dataset to predict survival probabilities usin
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/titanic-survival-prediction.git
+   git clone https://github.com/lilemmy29/TITANIC-SURVIVAL-PREDICTION-IN-R-PROGRAMMING.git
